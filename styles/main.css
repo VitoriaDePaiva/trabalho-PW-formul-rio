@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(74, 15, 129);
+    background-image: url(https://www.melhoresdestinos.com.br/wp-content/uploads/2019/02/passagens-aereas-maldivas-capa2019-04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+    background-color: rgb(228, 230, 235);
+    
+    color: rgb(128, 57, 57);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid rgb(23, 24, 22);
+
+    
+
+}
+.quadradinho{
+    border:groove ;
+    background-color: rgb(250, 250, 250);
+    border-color: rgb(12, 159, 228);
+    margin-left: 444px;
+    margin-right: 470px;
+    margin-top: 35px;
+
+
+
+}
+h2 {font-family: 'Lobster', cursive;
+    margin-left: 157px ;
+
+}
+.entrar {
+    margin-left: 120px;
+    padding-bottom: 18px;
+
+}
+.caixa { 
+    margin-left: 162px; 
+    margin-bottom: 10px;
+    padding-top: 27px ;
+}
+
+.esqueci {
+    padding-bottom: 157px;
+    padding-left: 146px;
+ }
+ 
